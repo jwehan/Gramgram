@@ -10,4 +10,4 @@ DATABASE IF EXISTS gram__test;
 CREATE
 DATABASE gram__test;
 USE
-gram__test;
+gram__test;∑
